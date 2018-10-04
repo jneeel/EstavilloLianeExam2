@@ -1,0 +1,110 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Base.Theme.AppCompat.Light">
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="ImageStyle">
+        <item name="android:layout_width">117dp</item>
+        <item name="android:layout_height">134dp</item>
+        <item name="android:layout_marginEnd">8dp</item>
+        <item name="android:layout_marginStart">80dp</item>
+        <item name="android:layout_marginTop">72dp</item>
+    </style>
+
+    <style name="CustomText1" parent="@style/TextAppearance.AppCompat.Medium">
+        <item name="android:text">Card Activity</item>
+        <item name="android:layout_width">380dp</item>
+        <item name="android:layout_height">58dp</item>
+        <item name="android:layout_marginEnd">8dp</item>
+        <item name="android:layout_marginStart">8dp</item>
+        <item name="android:layout_marginTop">8dp</item>
+        <item name="android:textSize">35sp</item>
+        <item name="android:textColor">#ffffff</item>
+    </style>
+
+    <style name="CustomText2" parent="@style/TextAppearance.AppCompat.Medium">
+        <item name="android:text">Kim Min Kyu</item>
+        <item name="android:layout_width">155dp</item>
+        <item name="android:layout_height">40dp</item>
+        <item name="android:layout_marginTop">8dp</item>
+        <item name="android:textSize">25sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">#d41655</item>
+    </style>
+
+    <style name="CustomText3" parent="@style/TextAppearance.AppCompat.Medium">
+        <item name="android:text">The greatest shareholder of the country's largest financial company with an IQ of 159 but is a "human allergy" patient who cannot be in contact with people.</item>
+        <item name="android:layout_width">235dp</item>
+        <item name="android:layout_height">97dp</item>
+        <item name="android:layout_marginBottom">8dp</item>
+        <item name="android:layout_marginTop">8dp</item>
+        <item name="android:textSize">15sp</item>
+        <item name="android:textColor">#662f3d</item>
+    </style>
+
+    <style name="CustomText4" parent="@style/TextAppearance.AppCompat.Medium">
+        <item name="android:text">Jo Ji Ah</item>
+        <item name="android:layout_width">155dp</item>
+        <item name="android:layout_height">40dp</item>
+        <item name="android:layout_marginEnd">8dp</item>
+        <item name="android:layout_marginStart">8dp</item>
+        <item name="android:layout_marginTop">4dp</item>
+        <item name="android:textSize">25sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">#d41655</item>
+    </style>
+
+    <style name="CustomText5" parent="@style/TextAppearance.AppCompat.Medium">
+        <item name="android:text">A passionate young entrepreneur who possesses a high emotional intelligence and has great knowledge in mechanics due to her father's influence in his car centre. </item>
+        <item name="android:layout_width">239dp</item>
+        <item name="android:layout_height">114dp</item>
+        <item name="android:layout_marginBottom">8dp</item>
+        <item name="android:layout_marginTop">8dp</item>
+        <item name="android:textSize">15sp</item>
+        <item name="android:textColor">#662f3d</item>
+    </style>
+
+    <style name="ImageStyle2">
+        <item name="android:layout_width">117dp</item>
+        <item name="android:layout_height">134dp</item>
+        <item name="android:layout_marginEnd">8dp</item>
+        <item name="android:layout_marginStart">80dp</item>
+        <item name="android:layout_marginTop">252dp</item>
+    </style>
+
+    <style name="ImageStyle3">
+        <item name="android:layout_width">117dp</item>
+        <item name="android:layout_height">134dp</item>
+        <item name="android:layout_marginEnd">8dp</item>
+        <item name="android:layout_marginStart">80dp</item>
+        <item name="android:layout_marginTop">416dp</item>
+    </style>
+
+    <style name="CustomText6" parent="@style/TextAppearance.AppCompat.Medium">
+        <item name="android:text">Hong Baek Hyun</item>
+        <item name="android:layout_width">206dp</item>
+        <item name="android:layout_height">40dp</item>
+        <item name="android:layout_marginEnd">8dp</item>
+        <item name="android:layout_marginStart">8dp</item>
+        <item name="android:layout_marginTop">4dp</item>
+        <item name="android:textSize">25sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">#d41655</item>
+    </style>
+
+    <style name="CustomText7" parent="@style/TextAppearance.AppCompat.Medium">
+        <item name="android:text">Ji-ah's ex-boyfriend who is a world-renowned genius robotics professor and is the creator of the android named Aji 3.</item>
+        <item name="android:layout_width">217dp</item>
+        <item name="android:layout_height">97dp</item>
+        <item name="android:layout_marginEnd">8dp</item>
+        <item name="android:layout_marginStart">8dp</item>
+        <item name="android:layout_marginTop">8dp</item>
+        <item name="android:textSize">15sp</item>
+        <item name="android:textColor">#662f3d</item>
+    </style>
+
+</resources>
